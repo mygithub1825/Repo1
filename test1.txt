@@ -1,0 +1,10 @@
+ Volume in drive F is Data Center2
+ Volume Serial Number is 7296-B37A
+
+ Directory of F:\My Proj 1
+
+04/17/2021  05:07 PM    <DIR>          .
+04/17/2021  05:07 PM    <DIR>          ..
+04/17/2021  05:07 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  471,458,820,096 bytes free
